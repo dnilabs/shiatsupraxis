@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Unbenanntes Dokument</title>
+<!-- TemplateEndEditable -->
+<link href="../CSS/Shiatsu.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+a:link {
+	color: #000;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #666;
+}
+a:hover {
+	text-decoration: none;
+	color: #FFF;
+}
+a:active {
+	text-decoration: none;
+}
+-->
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="840" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr class="menu">
+    <th scope="col"><a href="../index.html">Shiatsupraxis.net</a></th>
+    <th scope="col"><a href="../Pages/Shiatsu.html">Shiatsu</a></th>
+    <th scope="col"><a href="../Pages/Anwendungsgebiete.html">Anwendungsgebiet</a></th>
+    <th scope="col"><!-- TemplateBeginEditable name="EditRegion5" --><a href="../Pages/Praxis.html">Praxis &amp; Bildergalerie</a><!-- TemplateEndEditable --></th>
+    <th scope="col"><a href="../Pages/Ausbildung.html">Ausbildung &amp; Vita</a></th>
+    <th scope="col"><a href="../Pages/Kontakt.html">Kontakt und Neues</a></th>
+  </tr>
+  <tr class="Thumbs">
+    <td class="Thumbs"><img src="../PNG/Elemente/Shiatsu_Logo_kl.png" width="93" height="93" alt="Shiatsupraxis.net" /></td>
+    <td><img src="../Fotos/Shiatsu_klein.png" width="140" height="93" alt="Shiatsu" /></td>
+    <td><img src="../Fotos/Anwendungsgebiete_klein.png" width="140" height="93" alt="Anwendungsgebiete" /></td>
+    <td><img src="../Fotos/Praxis_klein.png" width="140" height="93" alt="Praxis &amp; Bildergallerie" /></td>
+    <td><img src="../Fotos/Ausbildung_klein.png" width="140" height="93" alt="Ausbildung &amp; Vita" /></td>
+    <td><img src="../Fotos/Vita_klein.png" width="140" height="93" alt="Kontakt &amp; Ausbildung" /></td>
+  </tr>
+  <tr class="menu">
+    <td colspan="6">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="3" class="linkespalte">&nbsp;</td>
+    <td colspan="3"><!-- TemplateBeginEditable name="EditRegion1" -->
+      <p class="U1">Überschrift 1<br />
+      </p>
+      <p>akute <br />
+        akuten und chronischen Schmerzen sowie Funktionsstörungen des Bewegungsapparates;<br />
+      Rehabilitation und Regeneration nach Unfällen oder Krankheiten</p>
+      <p>unterstützend von konventionellen Therapien wie Psychotherapie und schulmedizinischen Behandlungen</p>
+      <p>Schwangerschaft und Geburtsvorbereitung</p>
+      <p>Übergänge in den unterschiedlichen Lebensabschnitten; von der Geburt bis zum Tod</p>
+      <p>geriatrischen Beschwerden</p>
+      <p>Lern- und Konzentrationsschwächen bei Kindern sowie Hyperaktivität</p>
+      <p>Stärkung und Stabilisierung des Selbstwertes</p>
+      <p>Aktivierung der Selbstheilungskräfte</p>
+      <p>Wiederentdeckung der Selbstverantwortung</p>
+      <p>Gefühle zu fühlen</p>
+      <p>Für dringende medizinische oder psychische Behandlungen ist Shiatsu kein Ersatz!</p>
+      <p class="U1"><br />
+      </p>
+    <!-- TemplateEndEditable -->
+    <td colspan="2" rowspan="3" class="rechtespalte"><!-- TemplateBeginEditable name="EditRegion8" --><img src="../Fotos/Ausbildung.png" width="280" height="420" /><!-- TemplateEndEditable --></td>
+  </tr>
+  <tr>
+    <td colspan="3">  
+  </tr>
+  <tr>
+    <td colspan="3">  
+  </tr>
+  <tr>
+    <td colspan="6" class="menu">Copyright: Shiatsupraxis.net (C) 2009 | <a href="../Pages/Kontakt.html">Impressum</a> | </td>
+  </tr>
+</table>
+</body>
+</html>

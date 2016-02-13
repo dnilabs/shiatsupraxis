@@ -1,0 +1,41 @@
+@charset "utf-8";
+.U1 {
+	font-family: Helvetica;
+	font-size: 24px;
+	padding-top: 32px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+.kleinertext {
+	font-size: 12px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.pedding {
+	float: left;
+	font-family: Helvetica;
+	font-size: 14px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	width: 400px;
+	position: static;
+	padding-left: 20px;
+}
+.Bildrechts {
+	vertical-align: top;
+	padding-top: 10px;
+	position: relative;
+}
+
+
+.Hauptfenster {
+	width: 400px;
+	left: 10px;
+	top: 10px;
+	right: 10px;
+	bottom: 10px;
+}
+.megacenter {
+	text-align: center;
+}

@@ -1,0 +1,64 @@
+.Shiatsu {
+}
+.menu {
+	font-family: Helvetica;
+	background-color: #C2CD55;
+	height: 20px;
+	font-size: 12px;
+	line-height: 20px;
+	width: 140px;
+	text-align: center;
+}
+
+
+.Thumbs {
+	height: 93px;
+	width: 140px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+}
+.U1 {
+	font-family: Helvetica;
+	font-size: 24px;
+	text-align: left;
+	text-decoration: underline;
+	padding: 10px;
+	padding-top: 10px;
+}
+
+.linkespalte {
+	font-family: Helvetica;
+	font-size: 12px;
+	width: 140px;
+	vertical-align: top;
+	background-color: #FCFAE9;
+}
+.rechtespalte {
+	font-family: Helvetica;
+	font-size: 12px;
+	width: 280px;
+	vertical-align: text-top;
+	background-color: #FCFAE9;
+	padding-top: 24px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+}
+.Haupttext {
+	font-family: Helvetica;
+	font-size: 14px;
+	top: 10px;
+	line-height: normal;
+	text-align: left;
+	right: inherit;
+	padding-left: 10px;
+	width: 300px;
+}
+.Kleine {
+	font-size: 12px;
+}

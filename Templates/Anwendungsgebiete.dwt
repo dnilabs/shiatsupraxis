@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Shiatsu</title>
+<!-- TemplateEndEditable -->
+<link href="../CSS/Shiatsu.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+a:link {
+	color: #000;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #666;
+}
+a:hover {
+	text-decoration: none;
+	color: #FFF;
+}
+a:active {
+	text-decoration: none;
+}
+-->
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="840" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr class="menu">
+    <th scope="col"><a href="../index.html">Shiatsupraxis.net</a></th>
+    <th scope="col"><a href="../Pages/Shiatsu.html">Shiatsu</a></th>
+    <th scope="col"><a href="../Pages/Anwendungsgebiete.html">Anwendungsgebiet</a></th>
+    <th scope="col"><!-- TemplateBeginEditable name="EditRegion3" --><a href="../Pages/Praxis.html">Praxis &amp; Bildergalerie</a><!-- TemplateEndEditable --></th>
+    <th scope="col"><a href="../Pages/Ausbildung.html">Ausbildung &amp; Vita</a></th>
+    <th scope="col"><a href="../Pages/Kontakt.html">Kontakt und Neuigkeiten</a></th>
+  </tr>
+  <tr class="Thumbs">
+    <td class="Thumbs"><img src="../PNG/Elemente/Shiatsu_Logo_kl.png" width="93" height="93" alt="Shiatsupraxis.net" /></td>
+    <td><img src="../Fotos/Shiatsu_klein.png" width="140" height="93" alt="Shiatsu" /></td>
+    <td><img src="../Fotos/Anwendungsgebiete_klein.png" width="140" height="93" alt="Anwendungsgebiete" /></td>
+    <td><img src="../Fotos/Praxis_klein.png" width="140" height="93" alt="Praxis &amp; Bildergallerie" /></td>
+    <td><img src="../Fotos/Ausbildung_klein.png" width="140" height="93" alt="Ausbildung &amp; Vita" /></td>
+    <td><img src="../Fotos/Vita_klein.png" width="140" height="93" alt="Kontakt &amp; Ausbildung" /></td>
+  </tr>
+  <tr class="menu">
+    <td colspan="6">&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="linkespalte">&nbsp;</td>
+    <td colspan="3"><p class="U1">Shiatsu</p>
+      <p class="Haupttext">ist eine Ganzkörperbehandlung und folgt dem Verlauf der Meridiane ( Energieleitbahnen ) und Tsubos (Akupunkturpunkte) Gemäß der energetischen Verfassung, variiert Drucktechnik, Intensität und Art der Stimulation. Dehnungen, Rotationen und Schaukelbewegungen ergänzen diese manuelle Behandlungsform.</p>
+      <p class="Haupttext">Das Wort SHIATSU lässt  ahnen, dass es aus einem fernöstlichen Land kommt.Es ist japanisch und  bedeutet Fingerdruck.</p>
+      <p class="Haupttext">Es ist eine Methode der ganzheitlichen fernöstlichen Medizin, deren Grundlage die Vorstellung von der Existenz einer – aller Lebewesen innewohnenden Lebensenergie (Ki) ist.</p>
+      <p class="Haupttext">Jede Krankheit, jeder Schmerz, jede Disharmonie, sowohl psychischer wie physischer Art, ist im ganzheitlichen Sinn Ausdruck einer Unausgeglichenheit. Durch das Arbeiten mit dieser Energie wird nicht mehr das Symptom, sondern der ganze Mensch mit all seinen körperlichen, psychischen und emotionalen Aspekten behandelt.<br />
+        Shiatsu nimmt unter den komplementären Therapien eineneinzigartigen Platz ein. Sie zählt zu den ältesten Heilverfahren und ist aller Wahrscheinlichkeit älter als die Akupunktur. Berühren ist eine instinktive Form des Heilens und deshalb können wir davon ausgehen, dass die Punkte und Meridiane schon lange gerieben und gedrückt wurden, bevor sie mit den Steinnadeln stimuliert wurden, welche an Ausgrabungsstätten vor ca. 8000 Jahren vor unserer Zeitrechnung gefunden wurden.</p>
+      <p class="U1">Ursprung</p>
+      <p class="Haupttext">Wie die Natur nach Gleichgewicht und Ordnung strebt, orientiert sich Shiatsu auch an ihr.Geben und empfangen ist ein fundamentales  Naturgesetz, daher wird jede Behandlung individuell gestaltet sein. Keine gleicht der anderen.<br />
+        Die Kunst in der Shiatsuarbeit liegt im Erkennen der„ Sehnsuchtsbereiche“.<br />
+        Wo ein Zuviel ist, wird es ein Zuwenig (Sehnsuchtsbereich) geben, welches gestärkt und genährt werden will. Diese Bereiche sind auf körperlichen, geistigen und seelischen Ebene zu finden.
+      </p>
+      <h4> </h4>
+      <p>Links zum Thema --&gt; Shiatsu auf Wikipedia.org<br />
+        <br />
+      </p>
+    <td colspan="2" class="rechtespalte"><img src="../Fotos/Ausbildung.png" width="280" height="420" /></td>
+  </tr>
+  <tr>
+    <td colspan="6" class="menu">Copyright: Shiatsupraxis.net (C) 2009 | <a href="../Pages/Kontakt.html">Impressum</a> | </td>
+  </tr>
+</table>
+</body>
+</html>
